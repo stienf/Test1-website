@@ -1,0 +1,52 @@
+.jumbotron {
+    background-image: url(Vietnam.jpg);
+    background-size: cover;
+    height: 100vh;}
+
+    th {
+        width:100vw
+    }
+
+    .display-3 {
+        font-family: Cormorant Infant; 
+        font-size: 70px;
+        font-weight: bolder;
+        opacity: 0.8;
+    }
+
+    .lead {
+        font-family:Cormorant Infant;
+        font-size: 40px;
+        color: 
+        #a2ddd9 ;
+        
+    }
+
+    .navbar {
+        font-family: Amiri;
+        font-weight: bold;
+        background-color:  #36918b ;
+    }
+
+    .travel {
+        color: white;
+        padding-top: 10px;
+        font-size: 20px;
+    }
+
+    #about {
+        font-family: Cormorant Infant;
+        font-weight: bolder;
+    }
+
+    th {
+        font-family: Cormorant Infant;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+
+    .card {
+        background-color:  #36918b ;
+
+        
+    }
